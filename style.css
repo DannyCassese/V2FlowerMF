@@ -5,9 +5,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-   background-image: url(backgroundmfer.gif);
+   background-image: url(Backgroundmfer.gif);
   background-size: 150px; 
-  color: purple;
+  color: black;
   height: 100%;
 }
 .error {
