@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const placeholder = await f0.placeholder()
     const invites = await f0.myInvites()
     document.querySelector(".box").innerHTML = template({
-      title: `${name} (${symbol}) Invite List`,
+      title: `${name} (${symbol}) Garden List`,
       image: placeholder.converted.image,
       table: (Object.keys(invites).length > 0),
       items: Object.keys(invites).map((key, index) => {
