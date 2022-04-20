@@ -11,9 +11,9 @@ body {
   height: 100%;
 }
 .footer{
-  font-family: Sans-serif;
+  font-family: Menlo;
   position: fixed;
-  font-size: 20px;
+  font-size: 15px;
   font-weigth: bold;
   left: 10px;  
   bottom: 5px;  
