@@ -11,9 +11,10 @@ body {
   height: 100%;
 }
 .footer{
-  font-family: Sans-serif;
+  font-family: Montserrat;
   position: fixed;
-  font-size: 12px
+  font-size: 20px
+  font-weight: bold;
   left: 10px;  
   bottom: 5px;  
   right: 10px;   
